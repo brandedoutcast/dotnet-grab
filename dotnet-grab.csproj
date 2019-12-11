@@ -12,7 +12,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 
     <PackageId>dotnet-grab</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Description>.NET core global tool to download nuget packages in to a directory without any project</Description>
     <Authors>Rohith Reddy</Authors>
     <PackageProjectUrl>https://github.com/rohith/dotnet-grab</PackageProjectUrl>

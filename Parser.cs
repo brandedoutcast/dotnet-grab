@@ -32,6 +32,7 @@ namespace Grab
                                         Console.WriteLine($"   {name} - {msg}");
                                     }).ToArray();
             Task.WaitAll(Downloads);
+            Console.ResetColor();
             Console.WriteLine();
         }
 
